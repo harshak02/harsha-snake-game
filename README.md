@@ -1,0 +1,2 @@
+# harsha-snake-game
+Here's the snake game created from the scratch by using python 3.9.6 and its important and famous module pygame ......  I used the music clips and even related background wallpapers to make game more attractive and pleasurable  To run the game copy my code and paste in your respective compiler (note :- Python should be installed to run the code ) and then in the terminal install pygame module by typing :--  pip install pygame and later run the code play game
